@@ -5,6 +5,7 @@ A Python Script that takes data out of spreadsheet and calculate probabilities a
 Note: This is an old Python Project I did in my CSE 3504 Probabilistic Performance Analysis of Computer Systems class in Spring 2018.
 
 ## Prerequisites
+
 # Python
 
 For Mac OS X Users: https://www.python.org/downloads/mac-osx/
