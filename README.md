@@ -25,10 +25,14 @@ If the above command doesn't work and asks for authorization, then use...
 ```
 sudo pip install pandas
 ```
+#### And we repeat this step for the other libaries.
 
-And we repeat this step for the other libaries.
+### The excel-sheet I used for the data
+mini-project1-data.xlsx
 
-## What I Used and learned
+
+
+## What I used and learned
 * Extracting data from spreadsheet using Python.
 * Python Libaries: Pandas, NumPy, xlrd, matplotlib, math, statistics.
 
