@@ -6,13 +6,14 @@ Note: This is an old Python Project I did in my CSE 3504 Probabilistic Performan
 
 ### Prerequisites
 
-# Python
+Python
 
 For Mac OS X Users: https://www.python.org/downloads/mac-osx/
 
 For Windows Users: https://www.python.org/downloads/windows/
 
-# Libaries
+Libaries
+
 Go to your Terminal or CommandPrompt
 
 ```
