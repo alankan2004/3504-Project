@@ -1,8 +1,17 @@
 # Spreadsheet Data (CSE 3504 Project)
-A Python Script that takes data out of spreadsheet and calculate probabilities and statistics to plot graphs using Python Libaries, then make comparision and analysis on the result.
+A Python Script that takes data (26 survey questions from 1400 users) out of spreadsheet and calculate probabilities and statistics to plot graphs using Python Libaries, then make comparision and analysis on the result.
 
 
-Note: This is an old Python Project I did in my CSE 3504 Probabilistic Performance Analysis of Computer Systems class in Spring 2018.
+#### Note:
+This is an old Python Project I did in my CSE 3504 Probabilistic Performance Analysis of Computer Systems class in Spring 2018.
+
+The project was split into two parts.
+
+Part 1 is calcuating probability, mean, variance and entropy of each users answers to the 26 survey questions, and lastly calculating the Hellinger distance between each possible pair of questions.
+
+Part 2 is plotting the distributions for male and female respondents in bar graphs and find the similar distribution questions, showing the list of 26 Hellinger distances of each question, lastly performing the Hypothesis Testing.
+
+### I still need to add more comments and clean up the code.
 
 ## Prerequisites
 
