@@ -43,6 +43,6 @@ mini-project1-data.xlsx
 
 ## What I used and learned
 * Extracting data from spreadsheet using Python.
-* Python Libaries: Pandas, NumPy, xlrd, matplotlib, math, statistics.
+* Python Libaries: Pandas, NumPy, matplotlib, math, statistics.
 
 
